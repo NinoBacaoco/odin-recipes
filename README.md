@@ -2,9 +2,9 @@
 
 This project is a recipe web page.
 
-Skills demonstrated:
+Skills demonstrated:  
 html
 
 Status:
-still newb
-unfinished
+still newb  
+unfinished  
