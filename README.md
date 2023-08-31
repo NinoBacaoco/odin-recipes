@@ -3,7 +3,7 @@
 This project is a recipe web page.
 
 Skills demonstrated:  
-html
+html  
 basic css
 
 Status:  

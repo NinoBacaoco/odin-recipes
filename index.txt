@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>   
   <body>
-    <h1 id="header"><a href="./index.txt" target="_blank">Odin Recipes</a></h1>
+    <h1 id="header"><a href="./index.html" target="_blank">Odin Recipes</a></h1>
     <div class="container">
       <br><br>
       <ul class="items">
