@@ -4,6 +4,7 @@ This project is a recipe web page.
 
 Skills demonstrated:  
 html
+basic css
 
 Status:  
 still newb  
